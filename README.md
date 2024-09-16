@@ -1,1 +1,3 @@
 # Calculator-app
+Simple calculator app with basic opearations.
+Scientific calculator coming soon...
